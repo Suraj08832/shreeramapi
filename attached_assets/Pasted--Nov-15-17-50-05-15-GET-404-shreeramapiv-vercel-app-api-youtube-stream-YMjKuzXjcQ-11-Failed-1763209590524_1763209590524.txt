@@ -1,0 +1,35 @@
+
+Nov 15 17:50:05.15
+GET
+404
+shreeramapiv.vercel.app
+/api/youtube/stream/-YMjKuzXjcQ
+11
+Failed to get stream URL for -YMjKuzXjcQ: UnrecoverableError: All player APIs responded with an error. (Clients: web, mweb, tv, ios) For details, specify `logDisplay: ["debug", "info", "success", "warning", "error"]` in the constructor options of the YtdlCore class. Note: This error cannot continue processing. (Details: "Sign in to confirm you’re not a bot") at PlayerApi.getApiResponses (/var/task/node_modules/@ybd-project/ytdl-core/package/core/Info/apis/Player.js:60:23) at process.processTicksAndRejections (node:internal/process/task_queues:105:5) at async _getBasicInfo (/var/task/node_modules/@ybd-project/ytdl-core/package/core/Info/BasicInfo.js:109:57) at async getBasicInfo (/var/task/node_modules/@ybd-project/ytdl-core/package/core/Info/BasicInfo.js:163:21) at async getYouTubeStreamUrl (file:///var/task/dist/common/utils/spawn.js:36:18) at async YouTubeService.getStreamUrl (file:///var/task/dist/modules/youtube/services/youtube.service.js:127:20) at async file:///var/task/dist/modules/youtube/controllers/youtube.controller.js:170:35 at async dispatch (file:///var/task/node_modules/hono/dist/compose.js:22:17) at async file:///var/task/node_modules/hono/dist/validator/validator.js:81:5 at async dispatch (file:///var/task/node_modules/hono/dist/compose.js:22:17) { playabilityStatus: 'Sign in to confirm you’re not a bot' }
+Nov 15 17:49:51.69
+GET
+404
+shreeramapiv-8fr7tcrdj-suraj08832s-projects.vercel.app
+/favicon.png
+2
+--> GET /favicon.png [33m404[0m 1ms
+Nov 15 17:49:51.68
+GET
+404
+shreeramapiv-8fr7tcrdj-suraj08832s-projects.vercel.app
+/favicon.ico
+Nov 15 17:49:42.32
+GET
+---
+shreeramapiv-8fr7tcrdj-suraj08832s-projects.vercel.app
+/favicon.ico
+2
+--> GET /favicon.ico [33m404[0m 7ms
+Nov 15 17:49:42.28
+GET
+404
+shreeramapiv-8fr7tcrdj-suraj08832s-projects.vercel.app
+/favicon.ico
+2
+--> GET /favicon.ico [33m404[0m 6ms
+No more logs to show within selected timeline

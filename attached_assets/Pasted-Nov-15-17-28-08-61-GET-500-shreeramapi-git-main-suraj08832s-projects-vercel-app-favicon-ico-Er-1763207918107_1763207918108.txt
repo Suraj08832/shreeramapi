@@ -1,0 +1,121 @@
+Nov 15 17:28:08.61
+GET
+500
+shreeramapi-git-main-suraj08832s-projects.vercel.app
+/favicon.ico
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/var/task/src/server' imported from /var/task/api/index.js at finalizeResolution (node:internal/modules/esm/resolve:280:11) at moduleResolve (node:internal/modules/esm/resolve:865:10) at moduleResolveWithNodePath (node:internal/modules/esm/resolve:989:14) at defaultResolve (node:internal/modules/esm/resolve:1032:79) at #cachedDefaultResolve (node:internal/modules/esm/loader:731:20) at ModuleLoader.resolve (node:internal/modules/esm/loader:708:38) at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:310:38) at ModuleJob._link (node:internal/modules/esm/module_job:183:49) at process.processTicksAndRejections (node:internal/process/task_queues:105:5) { code: 'ERR_MODULE_NOT_FOUND', url: 'file:///var/task/src/server' } Node.js process exited with exit status: 1. The logs above can help with debugging the issue.
+Nov 15 17:28:08.33
+GET
+500
+shreeramapi-git-main-suraj08832s-projects.vercel.app
+/api/youtube/stream/-YMjKuzXjcQ
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/var/task/src/server' imported from /var/task/api/index.js at finalizeResolution (node:internal/modules/esm/resolve:280:11) at moduleResolve (node:internal/modules/esm/resolve:865:10) at moduleResolveWithNodePath (node:internal/modules/esm/resolve:989:14) at defaultResolve (node:internal/modules/esm/resolve:1032:79) at #cachedDefaultResolve (node:internal/modules/esm/loader:731:20) at ModuleLoader.resolve (node:internal/modules/esm/loader:708:38) at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:310:38) at ModuleJob._link (node:internal/modules/esm/module_job:183:49) at process.processTicksAndRejections (node:internal/process/task_queues:105:5) { code: 'ERR_MODULE_NOT_FOUND', url: 'file:///var/task/src/server' } Node.js process exited with exit status: 1. The logs above can help with debugging the issue.
+Nov 15 17:28:04.13
+GET
+500
+shreeramapi-git-main-suraj08832s-projects.vercel.app
+/favicon.ico
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/var/task/src/server' imported from /var/task/api/index.js at finalizeResolution (node:internal/modules/esm/resolve:280:11) at moduleResolve (node:internal/modules/esm/resolve:865:10) at moduleResolveWithNodePath (node:internal/modules/esm/resolve:989:14) at defaultResolve (node:internal/modules/esm/resolve:1032:79) at #cachedDefaultResolve (node:internal/modules/esm/loader:731:20) at ModuleLoader.resolve (node:internal/modules/esm/loader:708:38) at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:310:38) at ModuleJob._link (node:internal/modules/esm/module_job:183:49) at process.processTicksAndRejections (node:internal/process/task_queues:105:5) { code: 'ERR_MODULE_NOT_FOUND', url: 'file:///var/task/src/server' } Node.js process exited with exit status: 1. The logs above can help with debugging the issue.
+Nov 15 17:28:03.63
+GET
+500
+shreeramapi-git-main-suraj08832s-projects.vercel.app
+/api/youtube/stream/-YMjKuzXjcQ
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/var/task/src/server' imported from /var/task/api/index.js at finalizeResolution (node:internal/modules/esm/resolve:280:11) at moduleResolve (node:internal/modules/esm/resolve:865:10) at moduleResolveWithNodePath (node:internal/modules/esm/resolve:989:14) at defaultResolve (node:internal/modules/esm/resolve:1032:79) at #cachedDefaultResolve (node:internal/modules/esm/loader:731:20) at ModuleLoader.resolve (node:internal/modules/esm/loader:708:38) at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:310:38) at ModuleJob._link (node:internal/modules/esm/module_job:183:49) at process.processTicksAndRejections (node:internal/process/task_queues:105:5) { code: 'ERR_MODULE_NOT_FOUND', url: 'file:///var/task/src/server' } Node.js process exited with exit status: 1. The logs above can help with debugging the issue.
+Nov 15 17:25:19.89
+GET
+500
+shreeramapi.vercel.app
+/favicon.ico
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/var/task/src/server' imported from /var/task/api/index.js at finalizeResolution (node:internal/modules/esm/resolve:280:11) at moduleResolve (node:internal/modules/esm/resolve:865:10) at moduleResolveWithNodePath (node:internal/modules/esm/resolve:989:14) at defaultResolve (node:internal/modules/esm/resolve:1032:79) at #cachedDefaultResolve (node:internal/modules/esm/loader:731:20) at ModuleLoader.resolve (node:internal/modules/esm/loader:708:38) at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:310:38) at ModuleJob._link (node:internal/modules/esm/module_job:183:49) at process.processTicksAndRejections (node:internal/process/task_queues:105:5) { code: 'ERR_MODULE_NOT_FOUND', url: 'file:///var/task/src/server' } Node.js process exited with exit status: 1. The logs above can help with debugging the issue.
+Nov 15 17:25:18.41
+GET
+500
+shreeramapi.vercel.app
+/
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/var/task/src/server' imported from /var/task/api/index.js at finalizeResolution (node:internal/modules/esm/resolve:280:11) at moduleResolve (node:internal/modules/esm/resolve:865:10) at moduleResolveWithNodePath (node:internal/modules/esm/resolve:989:14) at defaultResolve (node:internal/modules/esm/resolve:1032:79) at #cachedDefaultResolve (node:internal/modules/esm/loader:731:20) at ModuleLoader.resolve (node:internal/modules/esm/loader:708:38) at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:310:38) at ModuleJob._link (node:internal/modules/esm/module_job:183:49) at process.processTicksAndRejections (node:internal/process/task_queues:105:5) { code: 'ERR_MODULE_NOT_FOUND', url: 'file:///var/task/src/server' } Node.js process exited with exit status: 1. The logs above can help with debugging the issue.
+Nov 15 17:25:16.71
+GET
+500
+shreeramapi-7c3afikh8-suraj08832s-projects.vercel.app
+/favicon.png
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/var/task/src/server' imported from /var/task/api/index.js at finalizeResolution (node:internal/modules/esm/resolve:280:11) at moduleResolve (node:internal/modules/esm/resolve:865:10) at moduleResolveWithNodePath (node:internal/modules/esm/resolve:989:14) at defaultResolve (node:internal/modules/esm/resolve:1032:79) at #cachedDefaultResolve (node:internal/modules/esm/loader:731:20) at ModuleLoader.resolve (node:internal/modules/esm/loader:708:38) at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:310:38) at ModuleJob._link (node:internal/modules/esm/module_job:183:49) at process.processTicksAndRejections (node:internal/process/task_queues:105:5) { code: 'ERR_MODULE_NOT_FOUND', url: 'file:///var/task/src/server' } Node.js process exited with exit status: 1. The logs above can help with debugging the issue.
+Nov 15 17:25:14.25
+GET
+500
+shreeramapi-7c3afikh8-suraj08832s-projects.vercel.app
+/favicon.png
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/var/task/src/server' imported from /var/task/api/index.js at finalizeResolution (node:internal/modules/esm/resolve:280:11) at moduleResolve (node:internal/modules/esm/resolve:865:10) at moduleResolveWithNodePath (node:internal/modules/esm/resolve:989:14) at defaultResolve (node:internal/modules/esm/resolve:1032:79) at #cachedDefaultResolve (node:internal/modules/esm/loader:731:20) at ModuleLoader.resolve (node:internal/modules/esm/loader:708:38) at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:310:38) at ModuleJob._link (node:internal/modules/esm/module_job:183:49) at process.processTicksAndRejections (node:internal/process/task_queues:105:5) { code: 'ERR_MODULE_NOT_FOUND', url: 'file:///var/task/src/server' } Node.js process exited with exit status: 1. The logs above can help with debugging the issue.
+Nov 15 17:25:12.78
+GET
+500
+shreeramapi-7c3afikh8-suraj08832s-projects.vercel.app
+/favicon.png
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/var/task/src/server' imported from /var/task/api/index.js at finalizeResolution (node:internal/modules/esm/resolve:280:11) at moduleResolve (node:internal/modules/esm/resolve:865:10) at moduleResolveWithNodePath (node:internal/modules/esm/resolve:989:14) at defaultResolve (node:internal/modules/esm/resolve:1032:79) at #cachedDefaultResolve (node:internal/modules/esm/loader:731:20) at ModuleLoader.resolve (node:internal/modules/esm/loader:708:38) at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:310:38) at ModuleJob._link (node:internal/modules/esm/module_job:183:49) at process.processTicksAndRejections (node:internal/process/task_queues:105:5) { code: 'ERR_MODULE_NOT_FOUND', url: 'file:///var/task/src/server' } Node.js process exited with exit status: 1. The logs above can help with debugging the issue.
+Nov 15 17:25:12.38
+GET
+500
+shreeramapi-7c3afikh8-suraj08832s-projects.vercel.app
+/favicon.ico
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/var/task/src/server' imported from /var/task/api/index.js at finalizeResolution (node:internal/modules/esm/resolve:280:11) at moduleResolve (node:internal/modules/esm/resolve:865:10) at moduleResolveWithNodePath (node:internal/modules/esm/resolve:989:14) at defaultResolve (node:internal/modules/esm/resolve:1032:79) at #cachedDefaultResolve (node:internal/modules/esm/loader:731:20) at ModuleLoader.resolve (node:internal/modules/esm/loader:708:38) at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:310:38) at ModuleJob._link (node:internal/modules/esm/module_job:183:49) at process.processTicksAndRejections (node:internal/process/task_queues:105:5) { code: 'ERR_MODULE_NOT_FOUND', url: 'file:///var/task/src/server' } Node.js process exited with exit status: 1. The logs above can help with debugging the issue.
+Nov 15 17:25:09.95
+GET
+500
+shreeramapi-7c3afikh8-suraj08832s-projects.vercel.app
+/favicon.ico
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/var/task/src/server' imported from /var/task/api/index.js at finalizeResolution (node:internal/modules/esm/resolve:280:11) at moduleResolve (node:internal/modules/esm/resolve:865:10) at moduleResolveWithNodePath (node:internal/modules/esm/resolve:989:14) at defaultResolve (node:internal/modules/esm/resolve:1032:79) at #cachedDefaultResolve (node:internal/modules/esm/loader:731:20) at ModuleLoader.resolve (node:internal/modules/esm/loader:708:38) at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:310:38) at ModuleJob._link (node:internal/modules/esm/module_job:183:49) at process.processTicksAndRejections (node:internal/process/task_queues:105:5) { code: 'ERR_MODULE_NOT_FOUND', url: 'file:///var/task/src/server' } Node.js process exited with exit status: 1. The logs above can help with debugging the issue.
+Nov 15 17:25:08.53
+GET
+500
+shreeramapi-7c3afikh8-suraj08832s-projects.vercel.app
+/favicon.ico
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/var/task/src/server' imported from /var/task/api/index.js at finalizeResolution (node:internal/modules/esm/resolve:280:11) at moduleResolve (node:internal/modules/esm/resolve:865:10) at moduleResolveWithNodePath (node:internal/modules/esm/resolve:989:14) at defaultResolve (node:internal/modules/esm/resolve:1032:79) at #cachedDefaultResolve (node:internal/modules/esm/loader:731:20) at ModuleLoader.resolve (node:internal/modules/esm/loader:708:38) at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:310:38) at ModuleJob._link (node:internal/modules/esm/module_job:183:49) at process.processTicksAndRejections (node:internal/process/task_queues:105:5) { code: 'ERR_MODULE_NOT_FOUND', url: 'file:///var/task/src/server' } Node.js process exited with exit status: 1. The logs above can help with debugging the issue.
+Nov 15 17:25:08.05
+GET
+500
+shreeramapi-7c3afikh8-suraj08832s-projects.vercel.app
+/
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/var/task/src/server' imported from /var/task/api/index.js at finalizeResolution (node:internal/modules/esm/resolve:280:11) at moduleResolve (node:internal/modules/esm/resolve:865:10) at moduleResolveWithNodePath (node:internal/modules/esm/resolve:989:14) at defaultResolve (node:internal/modules/esm/resolve:1032:79) at #cachedDefaultResolve (node:internal/modules/esm/loader:731:20) at ModuleLoader.resolve (node:internal/modules/esm/loader:708:38) at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:310:38) at ModuleJob._link (node:internal/modules/esm/module_job:183:49) at process.processTicksAndRejections (node:internal/process/task_queues:105:5) { code: 'ERR_MODULE_NOT_FOUND', url: 'file:///var/task/src/server' } Node.js process exited with exit status: 1. The logs above can help with debugging the issue.
+Nov 15 17:25:06.61
+GET
+500
+shreeramapi-7c3afikh8-suraj08832s-projects.vercel.app
+/
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/var/task/src/server' imported from /var/task/api/index.js at finalizeResolution (node:internal/modules/esm/resolve:280:11) at moduleResolve (node:internal/modules/esm/resolve:865:10) at moduleResolveWithNodePath (node:internal/modules/esm/resolve:989:14) at defaultResolve (node:internal/modules/esm/resolve:1032:79) at #cachedDefaultResolve (node:internal/modules/esm/loader:731:20) at ModuleLoader.resolve (node:internal/modules/esm/loader:708:38) at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:310:38) at ModuleJob._link (node:internal/modules/esm/module_job:183:49) at process.processTicksAndRejections (node:internal/process/task_queues:105:5) { code: 'ERR_MODULE_NOT_FOUND', url: 'file:///var/task/src/server' } Node.js process exited with exit status: 1. The logs above can help with debugging the issue.
+Nov 15 17:25:06.18
+GET
+500
+shreeramapi-7c3afikh8-suraj08832s-projects.vercel.app
+/favicon.ico
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/var/task/src/server' imported from /var/task/api/index.js at finalizeResolution (node:internal/modules/esm/resolve:280:11) at moduleResolve (node:internal/modules/esm/resolve:865:10) at moduleResolveWithNodePath (node:internal/modules/esm/resolve:989:14) at defaultResolve (node:internal/modules/esm/resolve:1032:79) at #cachedDefaultResolve (node:internal/modules/esm/loader:731:20) at ModuleLoader.resolve (node:internal/modules/esm/loader:708:38) at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:310:38) at ModuleJob._link (node:internal/modules/esm/module_job:183:49) at process.processTicksAndRejections (node:internal/process/task_queues:105:5) { code: 'ERR_MODULE_NOT_FOUND', url: 'file:///var/task/src/server' } Node.js process exited with exit status: 1. The logs above can help with debugging the issue.
+Nov 15 17:25:05.85
+GET
+500
+shreeramapi-7c3afikh8-suraj08832s-projects.vercel.app
+/favicon.ico
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/var/task/src/server' imported from /var/task/api/index.js at finalizeResolution (node:internal/modules/esm/resolve:280:11) at moduleResolve (node:internal/modules/esm/resolve:865:10) at moduleResolveWithNodePath (node:internal/modules/esm/resolve:989:14) at defaultResolve (node:internal/modules/esm/resolve:1032:79) at #cachedDefaultResolve (node:internal/modules/esm/loader:731:20) at ModuleLoader.resolve (node:internal/modules/esm/loader:708:38) at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:310:38) at ModuleJob._link (node:internal/modules/esm/module_job:183:49) at process.processTicksAndRejections (node:internal/process/task_queues:105:5) { code: 'ERR_MODULE_NOT_FOUND', url: 'file:///var/task/src/server' } Node.js process exited with exit status: 1. The logs above can help with debugging the issue.
+Nov 15 17:25:05.63
+GET
+500
+shreeramapi-7c3afikh8-suraj08832s-projects.vercel.app
+/
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/var/task/src/server' imported from /var/task/api/index.js at finalizeResolution (node:internal/modules/esm/resolve:280:11) at moduleResolve (node:internal/modules/esm/resolve:865:10) at moduleResolveWithNodePath (node:internal/modules/esm/resolve:989:14) at defaultResolve (node:internal/modules/esm/resolve:1032:79) at #cachedDefaultResolve (node:internal/modules/esm/loader:731:20) at ModuleLoader.resolve (node:internal/modules/esm/loader:708:38) at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:310:38) at ModuleJob._link (node:internal/modules/esm/module_job:183:49) at process.processTicksAndRejections (node:internal/process/task_queues:105:5) { code: 'ERR_MODULE_NOT_FOUND', url: 'file:///var/task/src/server' } Node.js process exited with exit status: 1. The logs above can help with debugging the issue.
+Nov 15 17:25:05.30
+GET
+500
+shreeramapi-7c3afikh8-suraj08832s-projects.vercel.app
+/
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/var/task/src/server' imported from /var/task/api/index.js at finalizeResolution (node:internal/modules/esm/resolve:280:11) at moduleResolve (node:internal/modules/esm/resolve:865:10) at moduleResolveWithNodePath (node:internal/modules/esm/resolve:989:14) at defaultResolve (node:internal/modules/esm/resolve:1032:79) at #cachedDefaultResolve (node:internal/modules/esm/loader:731:20) at ModuleLoader.resolve (node:internal/modules/esm/loader:708:38) at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:310:38) at ModuleJob._link (node:internal/modules/esm/module_job:183:49) at process.processTicksAndRejections (node:internal/process/task_queues:105:5) { code: 'ERR_MODULE_NOT_FOUND', url: 'file:///var/task/src/server' } Node.js process exited with exit status: 1. The logs above can help with debugging the issue.
+Nov 15 17:25:04.52
+GET
+---
+shreeramapi-7c3afikh8-suraj08832s-projects.vercel.app
+/
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/var/task/src/server' imported from /var/task/api/index.js at finalizeResolution (node:internal/modules/esm/resolve:280:11) at moduleResolve (node:internal/modules/esm/resolve:865:10) at moduleResolveWithNodePath (node:internal/modules/esm/resolve:989:14) at defaultResolve (node:internal/modules/esm/resolve:1032:79) at #cachedDefaultResolve (node:internal/modules/esm/loader:731:20) at ModuleLoader.resolve (node:internal/modules/esm/loader:708:38) at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:310:38) at ModuleJob._link (node:internal/modules/esm/module_job:183:49) at process.processTicksAndRejections (node:internal/process/task_queues:105:5) { code: 'ERR_MODULE_NOT_FOUND', url: 'file:///var/task/src/server' } Node.js process exited with exit status: 1. The logs above can help with debugging the issue. Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/var/task/src/server' imported from /var/task/api/index.js at finalizeResolution (node:internal/modules/esm/resolve:280:11) at moduleResolve (node:internal/modules/esm/resolve:865:10) at moduleResolveWithNodePath (node:internal/modules/esm/resolve:989:14) at defaultResolve (node:internal/modules/esm/resolve:1032:79) at #cachedDefaultResolve (node:internal/modules/esm/loader:731:20) at ModuleLoader.resolve (node:internal/modules/esm/loader:708:38) at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:310:38) at ModuleJob._link (node:internal/modules/esm/module_job:183:49) at process.processTicksAndRejections (node:internal/process/task_queues:105:5) { code: 'ERR_MODULE_NOT_FOUND', url: 'file:///var/task/src/server' } Node.js process exited with exit status: 1. The logs above can help with debugging the issue.
+Nov 15 17:25:04.47
+GET
+500
+shreeramapi-7c3afikh8-suraj08832s-projects.vercel.app
+/
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/var/task/src/server' imported from /var/task/api/index.js at finalizeResolution (node:internal/modules/esm/resolve:280:11) at moduleResolve (node:internal/modules/esm/resolve:865:10) at moduleResolveWithNodePath (node:internal/modules/esm/resolve:989:14) at defaultResolve (node:internal/modules/esm/resolve:1032:79) at #cachedDefaultResolve (node:internal/modules/esm/loader:731:20) at ModuleLoader.resolve (node:internal/modules/esm/loader:708:38) at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:310:38) at ModuleJob._link (node:internal/modules/esm/module_job:183:49) at process.processTicksAndRejections (node:internal/process/task_queues:105:5) { code: 'ERR_MODULE_NOT_FOUND', url: 'file:///var/task/src/server' } Node.js process exited with exit status: 1. The logs above can help with debugging the issue.
+No m
